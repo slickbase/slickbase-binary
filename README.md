@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/slickbase/slickbase-binary/assets/7090189/76f212d8-7006-4179-99e2-0eb6f631398c" width=250 alt="slickbase" />
+<img src="https://github.com/slickbase/slickbase-binary/assets/7090189/a3954bd5-aebe-4530-818b-19e2e128ac1c" width=250 alt="slickbase" />
 </p>
+
 
 # Slick Base
 
